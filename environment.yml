@@ -1,0 +1,8 @@
+name: spelunker-development
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - pyfiglet
